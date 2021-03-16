@@ -1,2 +1,2 @@
-# -ema-john-simple
+# ema-john-simple
 basic react js project  
